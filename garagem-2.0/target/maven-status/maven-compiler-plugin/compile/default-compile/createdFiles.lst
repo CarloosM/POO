@@ -1,0 +1,6 @@
+controller\MarcaController.class
+Principal.class
+entity\Marca.class
+view\MarcaView.class
+config\SQLConnection.class
+model\MarcaModel.class
